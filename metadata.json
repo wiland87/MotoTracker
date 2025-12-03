@@ -1,0 +1,5 @@
+{
+  "name": "MotoTracker",
+  "description": "Aplicación para el registro y control de gastos de mantenimiento de motocicletas.",
+  "requestFramePermissions": []
+}
